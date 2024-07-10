@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of movie genres with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What genre features cowboys?",
+      "answers": ["Western", "Horror", "Sci-Fi"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Which genre is known for suspense?",
+      "answers": ["Thriller", "Comedy", "Musical"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Which genre has singing?",
+      "answers": ["Musical", "Action", "Drama"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What genre involves space?",
+      "answers": ["Sci-Fi", "Romance", "Fantasy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What genre is scary?",
+      "answers": ["Horror", "Comedy", "Drama"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre is light-hearted?",
+      "answers": ["Comedy", "Action", "Thriller"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What genre features love?",
+      "answers": ["Romance", "Horror", "Sci-Fi"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What genre has mysteries?",
+      "answers": ["Mystery", "Action", "Musical"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What genre has epic quests?",
+      "answers": ["Fantasy", "Horror", "Drama"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre has robots?",
+      "answers": ["Sci-Fi", "Comedy", "Western"],
       "correctAnswerIndex": 0
     }
   ]
